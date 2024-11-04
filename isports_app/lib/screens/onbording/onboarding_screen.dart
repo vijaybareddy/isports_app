@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class OnboardingScreen extends StatelessWidget {
+class Onboardingscreen extends StatelessWidget {
   final PageController _pageController = PageController();
 
   @override
